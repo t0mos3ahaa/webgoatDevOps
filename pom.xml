@@ -15,7 +15,7 @@
         <!-- If run from Bamboo this will be replaced with the bamboo build number -->
         <build.number>local</build.number>
     </properties>
-
+	<description>Hi</description>
     <build>
         <resources>
             <resource>
